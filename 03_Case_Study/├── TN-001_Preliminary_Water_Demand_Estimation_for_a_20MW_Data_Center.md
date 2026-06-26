@@ -140,6 +140,20 @@ QS Questions:
   • Can additional treatment reduce long-term OPEX?
 ```
 
+```mermaid
+flowchart TD
+    A[Engineering Assumption] --> B[Water Demand Calculation]
+    B --> C[Required Water Treatment Capacity<br/>≈ 1,500 m³/day]
+    C --> D[Commercial Impact]
+
+    D --> E[Larger Civil Works]
+    D --> F[Larger Storage Tanks]
+    D --> G[Higher Pump Capacity]
+    D --> H[Higher Electrical Load]
+    D --> I[Higher CAPEX]
+    D --> J[Higher OPEX]
+```
+
 ### Key Commercial Insights
 
 The estimated water demand of approximately **1,500 m³/day** is not simply an operational figure. It has a direct impact on:
