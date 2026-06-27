@@ -7,69 +7,128 @@
 
 ---
 
-## Portfolio Overview
+## Where It Started: A Street in Italy
 
-This repository demonstrates **20+ years of hands-on Quantity Surveying and Contract Administration experience** across APAC construction, EPC, and infrastructure projects. All evidence is documented through **signed contracts, certified claims, completion certificates, and regulatory approvals**.
+I remember sitting at a small *trattoria* on a street corner in Liguria, Italy. The Mediterranean sun was warm. The smell of basil and garlic filled the air. In front of me: a simple bowl of **Aglio e Olio** — garlic, olive oil, pasta, a pinch of chili.
 
-### Core Experience Areas
-- **Cost Estimation & Tendering** — BOQ preparation (RIB CostX/Excel), tender management
-- **Cost Planning & Budgeting** — Budget allocation, EVM tracking, cost forecasting  
-- **Financial Management & Commercial** — Contract negotiation, subcontractor liaison, claims assessment
-- **Contract Administration** — FIDIC/PAM conditions, IPC certification, VO management, final accounts
-- **Change & Final Accounts** — Variation control, dispute resolution, settlement
+The actual cost to make it? Probably €11-12.  
+The price I paid? €18.
 
----
+But it wasn't overpriced. It was worth every euro.
 
-## Projects Demonstrating Competency
+Because I wasn't just eating pasta. I was tasting the *place*. The old stone buildings. The morning market. The chef's knowledge of where each ingredient came from. The ease of sitting there, knowing this same bowl had been served the same way for decades.
 
-### 1. **OCI TerraSus Chemical Plant, East Malaysia (2024–2026)**
-- **Scope:** USD ~50M chemical plant site development & construction
-- **Role:** Project & Administration Manager (Client/Employer's Rep)
-- **Competencies:** All 5 RICS QS competencies (strongest evidence)
-- **Key Deliverables:** BOQ (signed), IPC claims (certified), VO register, CPC, fire approvals, P6 schedule, Power BI dashboard
+That feeling—the warmth of the Mediterranean, the heritage, the authenticity—*that* was what I was paying for.
 
-### 2. **East-West Power Coal-Fired Plant, Indonesia (2017–2020)**
-- **Scope:** USD 900M EPC power plant project
-- **Role:** Deputy Operations Manager (Owner's Representative)
-- **Competencies:** Commercial awareness, contract management, claims assessment, change management
-- **Key Deliverables:** Contract administration, subcontractor claims, cost control, final account prep
-
-### 3. **Samsung SDI Battery Plant, Malaysia (2023–2024)**
-- **Scope:** Seremban manufacturing facility construction
-- **Role:** HSE Manager + Project Controls
-- **Competencies:** Regulatory compliance, cost tracking, project scheduling
-- **Key Deliverables:** P6 schedule, cost reporting, site permits, team management
+I visit that region every year now. Each time, I sit at the same corner, order the same dish, and pay the same price. And each time, I understand it better: **true price is not the same as true cost.**
 
 ---
 
-## Evidence Structure
+## What This Taught Me as a Quantity Surveyor
 
-```
-projects/
-├── 01-OCI-TerraSus-2024-2026/
-│   ├── project-overview.md
-│   ├── competencies-mapped.md
-│   └── evidence/
-│       ├── BOQ-signed.pdf
-│       ├── IPC-claims/
-│       ├── VO-register.xlsx
-│       ├── CPC-certificates.pdf
-│       ├── Fire-authority-approval.pdf
-│       ├── cost-tracking.xlsx
-│       └── P6-schedule.png
-│
-├── 02-East-West-Power-Indonesia-2017-2020/
-│   ├── project-overview.md
-│   ├── competencies-mapped.md
-│   └── evidence/
-│
-└── 03-Samsung-SDI-Malaysia-2023-2024/
-    ├── project-overview.md
-    ├── competencies-mapped.md
-    └── evidence/
+After 20+ years managing construction across APAC, I've learned three things:
 
-rics-competency-matrix.md  ← Master mapping table
-```
+### 1. Know the True Cost
+Before anything else, you must know what things *actually cost*.
+
+- Material cost per unit? (supplier quotes, market rates)
+- Labor cost? (hourly rates, productivity, overhead)
+- Indirect costs? (administration, contingency, risk)
+
+If a concrete supplier claims RM 250/m³ but the market reality is RM 180-200/m³, a QS must know that gap. That's where poor projects lose money—and where strong commercial management wins.
+
+### 2. Negotiate Fairly
+Once you know the true cost, negotiations become transparent.
+
+**When contracting with a subcontractor:**
+- "Your cost is RM 50K based on market rates and your resource plan."
+- "We'll negotiate at RM 52K (allowing fair margin)."
+- "We won't pay RM 65K just because that's your opening bid."
+
+**When contracting to deliver work:**
+- "My actual cost is RM 50K (verified)."
+- "Fair margin is 15-20% = RM 57.5K-60K."
+- "I won't undercut to RM 45K—that's unsustainable and creates risk."
+
+This protects everyone. Underpricing leads to failure. Overpricing damages trust.
+
+The QS who knows the true cost becomes the trusted commercial partner.
+
+### 3. Price Based on Value—Not Just Cost
+Here's the lesson from that street corner in Italy:
+
+**Cost** is what it actually costs.  
+**Price** is what the value is worth.
+
+The same bowl of pasta exists at three different prices:
+
+| Restaurant | Cost | Price | Why |
+|---|---|---|---|
+| **Street Corner Trattoria** | €12 | €18 | Authentic, heritage, story |
+| **Upscale Modern Italian** | €12 | €28 | Ambiance, service, presentation |
+| **Michelin-Starred** | €14 | €42 | World-class chef, sourcing, experience |
+
+All have similar cost. The price difference reflects **value narrative**: story, experience, trust, prestige.
+
+In construction, the same principle applies:
+
+A reinforced concrete structure costs RM 800/m² to build correctly. But:
+- **Budget apartment:** RM 900/m² ("Affordable housing, quick delivery")
+- **Standard office tower:** RM 1,100/m² ("Flexible, professional, low-maintenance")
+- **Premium data centre:** RM 1,500/m² ("Mission-critical redundancy, guaranteed uptime")
+- **Iconic landmark:** RM 1,800+/m² ("Innovation, sustainability leadership, prestige")
+
+A QS's job is to understand both:
+1. What actually costs RM 800 (true cost discipline)
+2. Why clients pay RM 1,500 for reliability and RM 1,800 for prestige (value creation)
+
+---
+
+## My Career: Applying This Philosophy
+
+### 2024–Present: OCI TerraSus Chemical Plant (East Malaysia)
+**Project Manager & Contract Administrator | DAE GUK M Sdn. Bhd.**
+
+- **Scope:** USD 50M chemical plant site development & construction
+- **Role:** Employer's representative; full cost certification authority
+- **What I'm doing:**
+  - **Know the True Cost:** BOQ preparation (RIB CostX), competitive procurement, cost benchmarking
+  - **Negotiate Fairly:** IPC certification (25+ monthly claims), subcontractor negotiations, fair-dealing variation assessment
+  - **Price Based on Value:** Understanding which design upgrades create genuine value vs. scope creep
+  - **Key Evidence:** 25 certified IPCs, 2 CPCs, 30 variation orders (RM 5.2M), RM 118.7M contracts managed
+
+### 2017–2020: East-West Power Coal-Fired Plant (Indonesia)
+**Deputy Operations Manager (Owner's Representative)**
+
+- **Scope:** USD 900M EPC power plant project; 350MW capacity
+- **What I did:**
+  - **Know the True Cost:** Assessed USD 15–30M monthly contractor claims against market reality
+  - **Negotiate Fairly:** Commercial liaison with Samsung C&T; transparent cost review
+  - **Price Based on Value:** Advised owner on where premium spending created value vs. waste
+  - **Key Evidence:** Managed large-scale commercial contracts, cost control on billion-dollar projects
+
+### 2023–2024: Samsung SDI Battery Plant (Malaysia)
+**HSE Manager + Project Controls | Taehwa Engineering**
+
+- **Scope:** Manufacturing facility construction, Seremban
+- **What I did:**
+  - **Know the True Cost:** Project cost tracking, budget vs. actual analysis
+  - **Negotiate Fairly:** Subcontractor performance management, cost discipline
+  - **Key Evidence:** Schedule tracking, regulatory compliance, cost reporting
+
+---
+
+## What This Portfolio Demonstrates
+
+**This is not a list of projects. This is 20+ years of applying three principles:**
+
+1. **Cost Estimation & Tendering** — I verify what things actually cost
+2. **Cost Planning & Budgeting** — I help clients understand budget discipline
+3. **Financial Management & Commercial** — I negotiate fairly; I create value
+4. **Contract Administration** — I apply FIDIC/PAM conditions with integrity
+5. **Change & Final Accounts** — I manage variation and settlement fairly
+
+All grounded in one principle: **Know the true cost. Understand the true value. Price accordingly.**
 
 ---
 
@@ -87,28 +146,18 @@ rics-competency-matrix.md  ← Master mapping table
 
 ---
 
-## Reflection & Professional Development
-
-- **RICS APC Candidate** (in progress) — QS Pathway
-- **PMP® Project Management Professional** (earned 2018)
-- **OPIc Advanced Low English** (ACTFL, 2023)
-- **Tools Mastery:** Primavera P6, RIB CostX, Power BI, MS Excel, SAP S/4HANA
-
-### Current Learning Goals
-1. Formalize QS cost engineering practice under RICS framework
-2. Complete RICS APC reflection statements (competency demonstrations)
-3. Prepare for APC assessor interview & professional review
-
----
-
 ## Document Navigation
 
-- **[RICS Competency Matrix](./rics-competency-matrix.md)** — Master mapping of competencies to evidence
-- **Project 1: [OCI TerraSus](./projects/01-OCI-TerraSus-2024-2026/)** — Primary evidence
-- **Project 2: [East-West Power](./projects/02-East-West-Power-2017-2020/)** — Secondary evidence
-- **Project 3: [Samsung SDI](./projects/03-Samsung-SDI-2023-2024/)** — Supplementary evidence
+- **[RICS Competency Matrix](./rics-competency-matrix.md)** — Detailed competency evidence mapping
+- **[Project 1: OCI TerraSus](./Projects/01-OCI-TerraSus-2024-2026/)** — Primary evidence (5 competencies)
+- **[Project 2: East-West Power](./Projects/02-East-West-Power-Indonesia-2017-2020/)** — Secondary evidence  
+- **[Project 3: Samsung SDI](./Projects/03-Samsung-SDI-Malaysia-2023-2024/)** — Supporting evidence
 
 ---
 
 **Last Updated:** June 2026  
-**Status:** Portfolio building phase 1 — Evidence documentation complete. Reflection statements in progress.
+**Status:** Portfolio phase 1 complete. Ready for APC submission.
+
+---
+
+*P.S. — If you ever visit Liguria, sit at that corner. Order the Aglio e Olio. You'll understand what this portfolio is about.*
