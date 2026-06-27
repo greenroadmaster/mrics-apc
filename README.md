@@ -9,18 +9,23 @@
 
 ## Where It Started: A Street in Italy
 
-I remember sitting at a small *trattoria* on a street corner in Liguria, Italy. The Mediterranean sun was warm. The smell of basil and garlic filled the air. In front of me: a simple bowl of **Aglio e Olio** — garlic, olive oil, pasta, a pinch of chili.
+"Pasta 25 euro? Bullshit!"
+
+That was my first reaction sitting at a small *trattoria* on a street corner in Liguria, Italy.
+
+But I ordered it anyway. And when it arrived—a simple bowl of **Aglio e Olio** with warm bread, Mediterranean sun overhead—I understood.
 
 The actual cost to make it? Probably €11-12.  
-The price I paid? €18.
+The price? €25.
 
-But it wasn't overpriced. It was worth every euro.
+But it wasn't overpriced. It was *worth* it.
 
-Because I wasn't just eating pasta. I was tasting the *place*. The old stone buildings. The morning market. The chef's knowledge of where each ingredient came from. The ease of sitting there, knowing this same bowl had been served the same way for decades.
+Because I wasn't just eating pasta. I was tasting the *place*. The old stone buildings. The morning market where they sourced the garlic. The chef's 30 years of doing the same thing the same way. The ease of sitting there, knowing this bowl had been served exactly like this for decades.
 
-That feeling—the warmth of the Mediterranean, the heritage, the authenticity—*that* was what I was paying for.
+That feeling—the warmth, the heritage, the authenticity—*that* was the value.
 
-I visit that region every year now. Each time, I sit at the same corner, order the same dish, and pay the same price. And each time, I understand it better: **true price is not the same as true cost.**
+I visit that region every year now. And every year, I sit there, order the same dish, pay the same price. And I think: **I finally understand what I'm paying for.**
+
 
 ---
 
